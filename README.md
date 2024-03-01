@@ -1,2 +1,3 @@
 # Beginner-Amazon-clone
-only using 
+only using Html & Css
+
